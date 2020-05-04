@@ -1,2 +1,2 @@
 # Google Glass Html
- primeiro repositorio vcs
+site esperimental do Googlo Glass.
